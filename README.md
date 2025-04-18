@@ -1,3 +1,8 @@
+This is the `dev` branch. 
+
+Original repository at <https://github.com/rsc/script>
+
+
 This is a copy of cmd/go/internal/script.
 
 See <https://pkg.go.dev/rsc.io/script> and <https://pkg.go.dev/rsc.io/script/scripttest>.
