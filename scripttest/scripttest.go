@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
+	script "github.com/veggiemonk/rsc-script"
 	"golang.org/x/tools/txtar"
-	"rsc.io/script"
 )
 
 // DefaultCmds returns a set of broadly useful script commands.

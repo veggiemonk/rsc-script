@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"rsc.io/script/internal/diff"
+	"github.com/veggiemonk/rsc-script/internal/diff"
 )
 
 // DefaultCmds returns a set of broadly useful script commands.

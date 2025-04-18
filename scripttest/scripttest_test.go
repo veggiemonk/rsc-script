@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	"rsc.io/script"
-	"rsc.io/script/scripttest"
+	script "github.com/veggiemonk/rsc-script"
+	"github.com/veggiemonk/rsc-script/scripttest"
 )
 
 func TestAll(t *testing.T) {
